@@ -1,0 +1,117 @@
+Successfuly downloaded the following drivers for 64bit:
+Greif - ApeosPro C810 / C750 / C650 - 7.0.9 has already been downloaded.
+Reiki - Apeos C8180 / C7580 / C6580 - 7.0.9 has already been downloaded.
+Shobu - Apeos C7070 / C6570 / C5570 / C4570 / C3570 / C3070 / C2570 - 7.0.11 has already been downloaded.
+Shobu - Apeos C7070 / C6570 / C5570 / C4570 / C3570 / C3070 / C2570 - 7.0.6 has already been downloaded.
+Shobu - Apeos C7070 / C6570 / C5570 / C4570 / C3570 / C3070 / C2570 - 7.0.4 has already been downloaded.
+Shobu - Apeos C7070 / C6570 / C5570 / C4570 / C3570 / C3070 / C2570 - 7.0.4 has already been downloaded.
+Orca - Revoria Press E1136 / E1125 / E1110 / E1100 - 7.0.5 has already been downloaded.
+Shobu-Mono - Apeos 4570 / 3570 - 7.0.6 has already been downloaded.
+Marble4 - Apeos C2360 / C2060 - 7.0.5 has already been downloaded.
+Monolith3 - Apeos 3060 / 2560 / 1860 - 7.0.5 has already been downloaded.
+Franky2 - Apeos C5240 - 7.0.4 has already been downloaded.
+Franky2-P - ApeosPrint C5240 - 7.0.4 has already been downloaded.
+Vivi2 - Apeos 6340 - 7.0.4 has already been downloaded.
+Vivi2-P - ApeosPrint 6340 - 7.0.4 has already been downloaded.
+ZakuroL - DocuPrint P350 d - 6.4.8 has already been downloaded.
+ZakuroM - DocuPrint P450 d / P450 ps - 6.4.8 has already been downloaded.
+Hisui - ApeosPort 4570 / 3570 - 6.13.1 has already been downloaded.
+Marble - DocuCentre-V C2263 FAX - 2.9.5 has already been downloaded.
+Marble - DocuCentre-V C2263 - 6.9.6 has already been downloaded.
+Marble - DocuCentre-V C2263 - 6.9.5 has already been downloaded.
+Marble2 - DocuCentre-VI C2264 FAX - 2.9.2 has already been downloaded.
+Marble2 - DocuCentre-VI C2264 - 6.9.2 has already been downloaded.
+Marble3 - ApeosPort C2360 / C2060 - 6.13.4 has already been downloaded.
+Luffy-New-P - ApeosPort-VII CP4422 / CP3322 - 6.13.2 has already been downloaded.
+Luffy-New - ApeosPort-VII C4422 / C3322 - 6.13.1 has already been downloaded.
+Luffy-FX - ApeosPort-VII C4421 - 6.13.1 has already been downloaded.
+Nami-New-P - ApeosPort-VII P4022 - 6.13.2 has already been downloaded.
+Nami-New - ApeosPort-VII 5022 - 6.13.1 has already been downloaded.
+Kaiji - DocuPrint CP400 d / CP400 ps - 6.4.8 has already been downloaded.
+FrankyPYakutai - FX DocuPrint CP500 d PCL 6 - 6.11.3 has already been downloaded.
+Iolaus - ApeosPort-VII C5588 / C6688 / C7788
+DocuCentre-VII C5588 / C6688 / C7788 - 6.12.3 has already been downloaded.
+Monolith2 - ApeosPort 3060 /2560 / 1860 - 6.13.1 has already been downloaded.
+Monolith - DocuCentre-V 3060/2060/1060 FAX - 2.9.3 has already been downloaded.
+Monolith - DocuCentre-V 3060/2060/1060 - 6.9.5 has already been downloaded.
+Botan2 - ApeosPort C7070 / C6570 / C5570 / C4570 / C3570 / C3070 / C2570 - 6.13.4 has already been downloaded.
+Botan - ApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372 / C2273 FAX
+DocuCentre-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372 / C2273 FAX - 2.9.6 has already been downloaded.
+Botan - ApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372 / C2273
+DocuCentre-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372 / C2273 - 6.12.7 has already been downloaded.
+Botan - ApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372 / C2273
+DocuCentre-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372 / C2273 - 6.12.6 has already been downloaded.
+NataneP - ApeosPort Print C5570 / C4570 - 6.13.1 has already been downloaded.
+Howl4 - ApeosPort-IV 4070/3070 FAX
+DocuCentre-IV 4070/3070 FAX - 2.7.4 has already been downloaded.
+Howl4 - ApeosPort-IV 4070/3070
+DocuCentre-IV 4070/3070 - 6.5.7 has already been downloaded.
+Kisyu2 - ApeosPort-IV C5575/C4475/C3375/C2275 FAX
+DocuCentre-IV C5575/C4475/C3375/C2275 FAX - 2.7.9 has already been downloaded.
+Kisyu2 - ApeosPort-IV C5575/C4475/C3375/C2275
+DocuCentre-IV C5575/C4475/C3375/C2275 - 6.6.10 has already been downloaded.
+Kisyu2 - ApeosPort-IV C5575/C4475/C3375/C2275
+DocuCentre-IV C5575/C4475/C3375/C2275 - 6.6.9 has already been downloaded.
+KisyuPL - ApeosPort-IV C5570/C4470/C3370/C2270(Type2)
+DocuCentre-IV C5570/C4470/C3370/C2270 (Type2) - 6.3.19 has already been downloaded.
+KisyuP - DocuPrint C5000 d/C4000 d - 6.4.23 has already been downloaded.
+KisyuP‰ü - DocuPrint C5150 d / C4150 d - 6.4.3 has already been downloaded.
+Volante5‰ü - ApeosPort-V 7080 N/6080 N/5080 N
+DocuCentre-V 7080 N/6080 N/5080 N - 6.9.5 has already been downloaded.
+Volante5 - ApeosPort-V 7080/6080/5080
+DocuCentre-V 7080/6080/5080 - 6.9.5 has already been downloaded.
+Volante4 - ApeosPort-IV 7080/6080/5080
+DocuCentre-IV 7080/6080/5080 - 6.5.8 has already been downloaded.
+Sepang - FX ApeosPort-V 4020 - 6.9.4 has already been downloaded.
+Sepang - FX ApeosPort-V 4020 FAX - 2.8.2 has already been downloaded.
+Herakles3 - ApeosPort-V C7785/C6685/C5585
+DocuCentre-V C7785/C6685/C5585 - 6.9.5 has already been downloaded.
+Herakles2FO - ApeosPort-V C5580 T2/C6680 T2/C7780 T2 FAX
+DocuCentre-V C5580 T2/C6680 T2/C7780 T2 FAX - 2.8.2 has already been downloaded.
+Herakles2FO - ApeosPort-V C5580 T2/C6680 T2/C7780 T2
+DocuCentre-V C5580 T2/C6680 T2/C7780 T2 - 6.9.5 has already been downloaded.
+Herakles2 - ApeosPort-V C5580/C6680/C7780
+DocuCentre-V C5580/C6680/C7780 - 6.8.13 has already been downloaded.
+Sekirei - ApeosPort-V 4070/3070 FAX
+DocuCentre-V 4070/3070 FAX - 2.8.4 has already been downloaded.
+Sekirei - ApeosPort-V 4070/3070
+DocuCentre-V 4070/3070 - 6.9.4 has already been downloaded.
+Sekirei - ApeosPort-V 4070/3070
+DocuCentre-V 4070/3070 - 6.9.3 has already been downloaded.
+Seito2 - ApeosPort-V C7776/C6676/C5576/C4476/C3376/C2276
+DocuCentre-V C7776/C6676/C5576/C4476/C3376/C2276 - 6.9.7 has already been downloaded.
+SeitoFO - ApeosPort-V C7775 T2/C6675 T2/C5575 T2/C4475 T2/C3375 T2/C2275 T2
+DocuCentre-V C7775 T2/C6675 T2/C5575 T2/C4475 T2/C3375 T2/C2275 T2 - 6.9.7 has already been downloaded.
+Hockenheim - FX ApeosPort-V C3320 - 6.9.5 has already been downloaded.
+Hockenheim - FX ApeosPort-V C3320 FAX - 2.8.2 has already been downloaded.
+DocuStation 3070 AS - DocuStation 3070 AS FAX - 2.7.5 has already been downloaded.
+DocuStation 3070 AS - DocuStation 3070 AS - 6.5.2 has already been downloaded.
+DocuStation 3071 AS - DocuStation 3071 AS FAX - 2.8.1 has already been downloaded.
+DocuStation 3071 AS - DocuStation 3071 AS - 6.9.1 has already been downloaded.
+Fio3 - DocuPrint 5100 d - 6.9.5 has already been downloaded.
+BeniGreen - ApeosPort-VI C7771 / C6671 / C5571 / C4471 / C3371 / C2271
+DocuCentre-VI C7771 / C6671 / C5571 / C4471 / C3371 / C2271 - 6.10.7 has already been downloaded.
+BorutoP - DocuPrint 4400 d / DocuPrint 3500 d / DocuPrint 3200 d - 6.12.3 has already been downloaded.
+Stanford - B9110/B9125/B9136 Light Publisher - 6.11.5 has already been downloaded.
+Erufu3P - DocuPrint C2550 d / C3550 d - 6.12.1 has already been downloaded.
+Erufu2 - DocuPrint C2450/C2450 II/C3450 d/C3450 d II - 6.3.5 has already been downloaded.
+Erufu - DocuPrint C3350 - 6.3.18 has already been downloaded.
+Rookie2 - DocuCentre-IV C2263 / C2263 N FAX - 2.7.5 has already been downloaded.
+Rookie2 - DocuCentre-IV C2263 / C2263 N - 6.5.12 has already been downloaded.
+Rookie2 - DocuCentre-IV C2263 / C2263 N - 6.5.11 has already been downloaded.
+Barnett - DocuPrint 3000 / 3100 - 6.4.17 has already been downloaded.
+MahoganyPL - D95/D110/D125 - 6.7.6 has already been downloaded.
+Shanks SFP - DocuPrint CP210 dw PCL6
+DocuPrint CP310 dw PCL6
+DocuPrint CP310 dw II PCL6 - 6.7.7 has already been downloaded.
+Lupin4-ME - DocuPrint 3010 - 6.4.4 has already been downloaded.
+Sangoh - DocuCentre-IV 2060/3060 FAX - 2.7.2 has already been downloaded.
+Sangoh - DocuCentre-IV 2060/3060 - 6.4.7 has already been downloaded.
+Wenge - D136 - 6.7.3 has already been downloaded.
+Hangang - DocuPrint 5060/4060 - 2.7.14 has already been downloaded.
+Ibuki(WHQL) - DocuCentre SC2021 PCL6 FAX - 6.7.4 has already been downloaded.
+Gutenberg4 - DocuColor 5656 PN/DocuColor 7171 P FAX - 2.8.4 has already been downloaded.
+Shanks AIO - FX DocuPrint CM310 z II PCL6 FAX
+FX DocuPrint CM310 z PCL6 FAX
+FX DocuPrint CM210 z PCL6 FAX - 6.7.7 has already been downloaded.
+TaigaHigh - DocuPrint C3360 - 2.7.23 has already been downloaded.
