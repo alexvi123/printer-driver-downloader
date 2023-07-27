@@ -134,6 +134,19 @@ def process(sheetName):
                 latestVersion[driverName]={}
                 latestVersion[driverName][softwareType] = version
             elif latestVersion[driverName].get(softwareType) and latestVersion[driverName][softwareType] >= version:
+                downloadStatus = 'ok'
+                remark = 'Skipped since there is already a newer version downloaded.'
+                # Append the row data to the HTML table
+                htmlTable += f'''
+                <tr>
+                    <td>{productName}</td>
+                    <td>{driverName}</td>
+                    <td>{version}</td>
+                    <td>{sheetName}</td>
+                    <td>{downloadStatus}</td>
+                    <td>{remark}</td>
+                </tr>
+                '''
                 continue
 
             # Initialize the driver variable outside the loop and set it to None
