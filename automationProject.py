@@ -19,7 +19,7 @@ def process(sheetName):
     # Read the Excel data without specifying columns
     excelDataDf = pd.read_excel('ドライババージョンアップ対応チェックシート(FB).xlsx', sheet_name=sheetName)
     latestVersion = {}
-
+    driverNumber=0
     # Map the column names in English
     columnMapping = {
         'プロダクト': 'productName',
@@ -62,6 +62,7 @@ def process(sheetName):
     <h2>Fujifilm Driver Report</h2>
     <table>
     <tr>
+    <th>Number</th>
     <th>Product Name</th>
     <th>Driver Name</th>
     <th>Version</th>
@@ -81,6 +82,7 @@ def process(sheetName):
             driverName = item.get('driverName')
             version = item.get('version')
             rawProductName = item.get('productName')
+            driverNumber+=1
             downloaded = False
             fullDriverName = driverName
             if rawProductName is None:
@@ -96,10 +98,24 @@ def process(sheetName):
 
             productName = productName.strip()
             if productName == '(WHQL)':
+                downloadStatus = 'N/A'
+                remark = 'Skipped because there is no product name'
+                htmlTable += f'''
+                <tr>
+                    <td>{driverNumber}</td>
+                    <td>{productName}</td>
+                    <td>{driverName}</td>
+                    <td>{version}</td>
+                    <td>{sheetName}</td>
+                    <td>{downloadStatus}</td>
+                    <td>{remark}</td>
+                </tr>
+                '''
                 continue
 
             # Check if driverName exists and is not None
             if driverName is None:
+                driverNumber-=1
                 continue
 
 
@@ -139,6 +155,7 @@ def process(sheetName):
                 # Append the row data to the HTML table
                 htmlTable += f'''
                 <tr>
+                    <td>{driverNumber}</td>
                     <td>{productName}</td>
                     <td>{driverName}</td>
                     <td>{version}</td>
@@ -164,6 +181,7 @@ def process(sheetName):
                     remark = ''
                     htmlTable += f'''
                 <tr>
+                    <td>{driverNumber}</td>
                     <td>{productName}</td>
                     <td>{driverName}</td>
                     <td>{version}</td>
@@ -310,6 +328,7 @@ def process(sheetName):
                         # Append the row data to the HTML table
                 htmlTable += f'''
                 <tr>
+                    <td>{driverNumber}</td>
                     <td>{productName}</td>
                     <td>{driverName}</td>
                     <td>{version}</td>
@@ -329,6 +348,7 @@ def process(sheetName):
                 remark='The driver was not found. Please download manually.'
                 htmlTable += f'''
                 <tr>
+                    <td>{driverNumber}</td>
                     <td>{productName}</td>
                     <td>{driverName}</td>
                     <td>{version}</td>
